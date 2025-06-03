@@ -67,13 +67,11 @@ This is an analysis into PureSlip Beverages, a company that specializes in the d
 # ✅ Summary
 
 
-• Power BI automatically refreshes reports whenever source files are updated.
-
 • Retailers can regularly upload spreadsheets to a shared folder, triggering automatic analysis in the report.
 
 • Removes the risk of manual processing errors.
 
-• Delivers real-time data and current insights.s.
+• Delivers real-time data and current insights.
 
 
 
